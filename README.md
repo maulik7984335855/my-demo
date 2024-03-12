@@ -1,3 +1,3 @@
 # my-demo
-This is my second Git Repository
+This is my second Git Repository.
 Author - Maulik Prajapati
