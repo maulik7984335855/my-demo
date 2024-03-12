@@ -1,4 +1,4 @@
 # my-demo
 This is my second Git Repository.
 <br>
-Author - Maulik Prajapati
+Author - Maulik Prajapati(Student)
